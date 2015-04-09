@@ -1,0 +1,443 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Sender.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\EHSample.Datacontracts.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\System.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\EHSample.Datacontracts.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\System.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\obj\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\GMM\EHSample\Sender\obj\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\System.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\System.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\obj\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\Sender\obj\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Sender.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\obj\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\obj\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\System.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\System.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSample\EHSampleTestProjects\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\obj\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\obj\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\System.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\System.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\obj\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Sender\obj\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\obj\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\obj\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Sender.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\obj\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\obj\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\obj\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\obj\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe.config
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Sender.pdb
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\obj\Debug\Sender.exe
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Sender\obj\Debug\Sender.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe.config
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\obj\Debug\Sender.exe
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\obj\Debug\Sender.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.exe
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Sender.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\System.Spatial.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache

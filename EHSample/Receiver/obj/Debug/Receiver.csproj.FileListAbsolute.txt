@@ -1,0 +1,288 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\obj\Debug\Receiver.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\obj\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSensorsDataSample\EHLab\Receiver\obj\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\obj\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\obj\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\EHSample\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\obj\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\obj\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2013\Projects\HYIS\EH LAB\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.pdb
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.exe
+C:\Users\ninoc\Documents\Events\Integration Monday\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.exe
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.exe
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Receiver.pdb
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\System.Spatial.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.ServiceBus.Messaging.EventProcessorHost.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\System.Spatial.xml
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Nino\Documents\Visual Studio 2015\Projects\EH Area51\EH XRay\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
