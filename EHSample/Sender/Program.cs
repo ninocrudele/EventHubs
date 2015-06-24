@@ -42,14 +42,14 @@ namespace Sender
         static void Main(string[] args)
         {
 
-            string ehConnectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=d=";
+            string ehConnectionString = "Endpoint=sb://[your namespace].servicebus.windows.net;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=[your secret]";
             //Create the connection string
             ServiceBusConnectionStringBuilder builder = new ServiceBusConnectionStringBuilder(ehConnectionString)
             {
                 TransportType = TransportType.Amqp
             };
             //Create the EH sender
-            string eventHubName = "test123";
+            string eventHubName = "[EVENTHUBNAME]";
             //OPTIONS 1
             eventHubClient = EventHubClient.CreateFromConnectionString(builder.ToString(), eventHubName);
             //for (int i = 0; i < 5; i++)
@@ -109,7 +109,7 @@ namespace Sender
         private void InitEH()
         {
             string senderId = AppDomain.CurrentDomain.FriendlyName;
-            string ehConnectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=dsf=";
+            string ehConnectionString = "Endpoint=sb://[your namespace].servicebus.windows.net;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=[your secret]";
 
 
             //Create the connection string

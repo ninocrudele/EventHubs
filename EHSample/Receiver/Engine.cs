@@ -30,13 +30,12 @@ namespace Receiver
             try
             {
                 //Set connection strings
-                eventHubConnectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=dfs=";
-                //eventHubConnectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=cby6xSYRMBpbUX5R4CRZ/r=";
-                string eventHubConnectionStringAdmin = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=d=";
+                eventHubConnectionString = "Endpoint=sb://[NAMESPACE].servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=[SharedAccessKey]";
+                string eventHubConnectionStringAdmin = "Endpoint=sb://[NAMESPACE].servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=[SharedAccessKey]";
                 
-                eventHubName = "test123";
-                string storageAccountName = "tryteststorage";
-                string storageAccountKey = "p6koDHE0rg89qSogDjhSJ4/ds==";
+                eventHubName = "[EVENTHUBNAME]";
+                string storageAccountName = "[STORAGEACCOUNTNAME]";
+                string storageAccountKey = "[STORAGEACCOUNTKEY]";
                 storageConnectionString = string.Format("DefaultEndpointsProtocol=https;AccountName={0};AccountKey={1}",
                             storageAccountName, storageAccountKey);
                 //Create connection string
@@ -82,8 +81,7 @@ namespace Receiver
             //Single
             bool receive = true;
             string myOffset;
-            //string connectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=cby6xSYRMBpbUX5R4CRZ/734LR9DExSBumZHKEdx63Q=";
-            string connectionString = "Endpoint=sb://azureofthings.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=w=";
+            string connectionString = "Endpoint=sb://[NAMESPACE].servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=[SharedAccessKey]";
             
             //CONNN---
             //Create the connection string

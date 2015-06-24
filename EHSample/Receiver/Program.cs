@@ -28,13 +28,6 @@ using System.Threading.Tasks;
 /// Totally focused on Integration Technologies
 /// </summary>
 
-/// presenta il programma mvp
-/// BizTalk Crew
-/// presenta lhub
-/// code
-/// presenta analytic
-/// esempio secondo
-/// stop
 namespace Receiver
 {
     class Program

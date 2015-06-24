@@ -333,4 +333,3 @@ C:\Users\Nino\Documents\GitHub\EventHub\EHSample\Receiver\bin\Debug\ko\System.Sp
 C:\Users\Nino\Documents\GitHub\EventHub\EHSample\Receiver\bin\Debug\ru\System.Spatial.resources.dll
 C:\Users\Nino\Documents\GitHub\EventHub\EHSample\Receiver\bin\Debug\zh-Hans\System.Spatial.resources.dll
 C:\Users\Nino\Documents\GitHub\EventHub\EHSample\Receiver\bin\Debug\zh-Hant\System.Spatial.resources.dll
-C:\Users\Nino\Documents\GitHub\EventHub\EHSample\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
